@@ -35,9 +35,9 @@
 <br>
 <strong>Links to the system:</strong>
 
-- [Back-end](https://github.com/croschel/fastfeet/backend/Readme.md)
-- [Front-end-web](https://github.com/croschel/fastfeet/web/Readme.md)
-- [App-Mobile](https://github.com/croschel/fastfeet/mobile/Readme.md)
+- [Back-end](https://github.com/croschel/fastfeet-project/tree/master/backend)
+- [Front-end-web](https://github.com/croschel/fastfeet-project/tree/master/web)
+- [App-Mobile](https://github.com/croschel/fastfeet-project/tree/master/fastfeetmobile)
 
 ## Tecnologies
 
