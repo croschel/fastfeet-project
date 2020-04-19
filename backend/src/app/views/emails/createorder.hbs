@@ -1,0 +1,24 @@
+<strong>Olá, {{ transporter }}</strong>
+<p>Existe uma nova entrega cadastrada para o senhor, confira os detalhes abaixo:</p>
+<p>
+  <strong>Cliente: </strong> {{ recipient }} <br />
+  <strong>Produto: </strong> {{ product }} <br />
+  <ul>
+    <li>Endereço: {{ street }}</li>
+    <li>Número: {{ number }}</li>
+    <li>Complemento: {{ complement }}</li>
+    <li>Estado: {{ state }}</li>
+    <li>Cidade: {{ city }}</li>
+    <li>CEP: {{ cep }}</li>
+  </ul>
+  <br />
+  <small>Por gentileza, confirmar entrega no sistema e retirar a encomenda</small>
+  <br />
+  <br />
+  <small>Lembrando que todas as encomendas devem ser retiradas das 08:00 às 18:00
+      de segunda à sabado.
+  </small>
+  <br />
+  <br />
+  <small>Número de entregas realizadas na data de hoje: {{availableCounter}}</small>
+</p>
