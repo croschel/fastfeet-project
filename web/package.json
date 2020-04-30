@@ -15,7 +15,7 @@
     "history": "^4.10.1",
     "immer": "^6.0.2",
     "inputmask": "^5.0.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-editable-select": "^2.2.5",
     "polished": "^3.5.1",
     "react": "^16.13.1",
